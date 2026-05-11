@@ -18,6 +18,14 @@ A desktop portfolio management application built with PySide6 that tracks stock 
 - **Sort by P/L%** — one-click sort toggle for profitability, ascending or descending
 
 ---
+## Portfolio ledger screen
+![alt](Screenshot_20260511_122305.png)
+
+## Multichart screen
+![alt](Screenshot_20260511_122422.png)
+
+## Single stock chart screen
+![alt](Screenshot_20260511_122355.png)
 
 ## Project Structure
 
