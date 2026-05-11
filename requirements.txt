@@ -1,0 +1,5 @@
+# <<< conda initialize <<<
+PySide6
+pyqtgraph
+yfinance
+
